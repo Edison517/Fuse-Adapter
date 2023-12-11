@@ -1,0 +1,96 @@
+*************************************************************
+FileName = Fuse_Adapter_v1_2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : Fuse_Adapter_v1_2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Fuse_Adapter_v1_2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Fuse_Adapter_v1_2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Fuse_Adapter_v1_2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Fuse_Adapter_v1_2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Fuse_Adapter_v1_2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : Fuse_Adapter_v1_2.GM1
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D10
+*************************************************************
+

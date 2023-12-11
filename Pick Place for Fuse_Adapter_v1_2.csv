@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\seth\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for Fuse_Adapter_v1_2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/03/23
+Time:       17:27
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"F1","Keystone 3557","TopLayer","PCBComponent_1","-191.500","0.000","90","Auto Fuse Clip; Universal Blade; Vertical; THM; 30Amp; Brass/Tin"
+"F2","Keystone 3557","TopLayer","PCBComponent_1","191.500","0.000","270","Auto Fuse Clip; Universal Blade; Vertical; THM; 30Amp; Brass/Tin"
