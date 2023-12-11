@@ -19,3 +19,5 @@ The pcbs should be standard thickness, 1.6mm (0.062"), and make sure to tell the
 
 <a href="https://www.pcbway.com/project/shareproject/Fuse_Adapter_v1_2_5c98d71a.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
+<a href="https://www.buymeacoffee.com/Edison517">Buy me a coffee!</a>
+
